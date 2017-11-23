@@ -37,7 +37,6 @@
     "cordova-plugin-splashscreen": "^4.0.3",
     "cordova-plugin-statusbar": "^2.2.3",
     "cordova-plugin-whitelist": "^1.3.3",
-    "cordova-plugin-x-socialsharing": "^5.2.1",
     "cordova-promise-polyfill": "0.0.2",
     "cordova-sqlite-storage": "^2.0.4",
     "css-animator": "^2.1.1",
@@ -74,7 +73,6 @@
       "ionic-plugin-keyboard": {},
       "cordova-plugin-nativeaudio": {},
       "cordova-sqlite-storage": {},
-      "cordova-plugin-x-socialsharing": {},
       "cordova-plugin-admob-free": {},
       "cordova-plugin-ionic-webview": {}
     }
